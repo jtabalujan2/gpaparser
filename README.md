@@ -16,4 +16,4 @@ Application will :
 5. Print out in console student name and GPA
 
 
-###Code can be found in Gpaparser>SeleniumTest>gpaparser.py
+##Code can be found in Gpaparser>SeleniumTest>gpaparser.py
