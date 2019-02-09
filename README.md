@@ -14,3 +14,6 @@ Application will :
 4. Navigate through 3-4 pages to get to page that includes student's GPA
   4a. Has error catching that will notify user to manually look up certain since their GPA's are unable to be scraped via the webpage.
 5. Print out in console student name and GPA
+
+
+###Code can be found in Gpaparser>SeleniumTest>gpaparser.py
